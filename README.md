@@ -155,7 +155,7 @@ Dois jogadores, puzzles, plataformas e cooperação para chegar à saída.
 
 ## `> activity`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ycarus&theme=github-compact&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff" width="100%" alt="GitHub activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-msv&theme=github-compact&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff" width="100%" alt="GitHub activity"/>
 
 </div>
 
@@ -165,7 +165,7 @@ Dois jogadores, puzzles, plataformas e cooperação para chegar à saída.
 
 ## `> contribution.exe`
 
-<img src="https://raw.githubusercontent.com/ycarus/ycarus/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Gabriel-msv/Gabriel-msv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
