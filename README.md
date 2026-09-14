@@ -76,7 +76,7 @@ Também participo de projetos ligados ao **Laboratório de Sistemas e Dados**, e
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,cpp,c,git,github,linux,arduino,opencv,vscode&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,git,github,linux,arduino,opencv,vscode&theme=dark" alt="Tech stack"/>
 
 </div>
 
