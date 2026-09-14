@@ -5,6 +5,7 @@
 <h3>Estudante • Programador • Monitor de Introdução à Programação</h3>
 
 <p>
+ sla esse readme ainda tá em desenvolvimento, se tá feio ou com cara de ia, não fd
 Construindo projetos com código, experimentando tecnologia<br>
 e tentando descobrir por que aquilo que funcionava ontem quebrou hoje.
 </p>
