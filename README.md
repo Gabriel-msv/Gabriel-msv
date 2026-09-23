@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:063d29,100:00ff88&height=180&section=header&text=Ycarus&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<h3>Estudante • Programador • Monitor de Introdução à Programação</h3>
+<h3>Estudante • Programador</h3>
 
 <p>
  sla esse readme ainda tá em desenvolvimento, se tá feio ou com cara de ia, não fd
